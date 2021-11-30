@@ -36,5 +36,17 @@
     <ClCompile Include="7_类模板默认参数和类型别名以及别名模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8_非类型模板参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9_可变参数模板初探.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_零初始化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_使用裸数组或者字符串常量的模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
