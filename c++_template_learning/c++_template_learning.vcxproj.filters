@@ -48,5 +48,26 @@
     <ClCompile Include="11_使用裸数组或者字符串常量的模板.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="12_成员函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_成员函数模板特化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_构造函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_模板变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_模板模板参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_移动语义1--move和forward.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_移动语义2--万能引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
