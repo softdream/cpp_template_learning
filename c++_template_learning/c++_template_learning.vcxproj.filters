@@ -69,5 +69,35 @@
     <ClCompile Include="18_移动语义2--万能引用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19_移动语言3--针对右值引用实施move_针对万能引用forward.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="通过enable_if禁用模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将enable_if应用于成员函数中.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="值传递与引用传递1--值传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="值传递与引用传递2--引用传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="值传递与引用传递3--Forwarding_Reference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="值传递与引用传递4--处理返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译期编程1--模板元编程初探.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译器编程2--通过部分特例化进行路径选择.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译期编程3--SFINAE机制初探.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
