@@ -99,5 +99,38 @@
     <ClCompile Include="编译期编程3--SFINAE机制初探.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="编译期编程4--使用decltype进行SFINAE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="编译器编程5--编译器if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现1--固定的萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现2--值萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现3--参数化的萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现4--策略Policy以及策略类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现5--成员模板还是模板模板参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现6--类型函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型萃取的实现7--元素类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>
