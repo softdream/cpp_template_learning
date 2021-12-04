@@ -41,14 +41,27 @@ struct ElementT<T[]>
 template<typename T>
 void printElementType(T const& c) 
 { 
-	std::cout << "Container of " << typeid(typename ElementT<T>::Type).name() << " elements.\n";
+	std::cout << "Container of " << typeid(typename ElementT<T>::Type).name() << " elements."<<std::endl;
 }
+
+// 偏特化的使用使得我们可以在容器类型不知道具体类型函数存在的情况下去实现类型函数。 
+// 但是在某些情况下，类型函数是和其所适用的类型一起被设计的，此时相关实现就可以被简化。
+
+template<typename C> 
+struct ElementT
+{
+	using Type = typename C::value_type;
+};
+template<typename C> 
+ElementType<C> sumOfElements(C const& c);
 
 int main() 
 { 
 	std::vector<bool> s; 
 	printElementType(s);
+
 	int arr[42]; 
 	printElementType(arr);
+
 	return 0;
 }

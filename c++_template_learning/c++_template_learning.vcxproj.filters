@@ -129,6 +129,27 @@
     <ClCompile Include="类型萃取的实现7--元素类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类型的萃取8_转换萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取9--预测型萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取10--返回结果类型萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取11--基于 SFINAE 的萃取1--用 SFINAE 排除某些重载函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取11--基于SFINAE的萃取--用SFINAE排除偏特化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取12--基于SFINAE的萃取--SFINAE 友好的萃取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取13--isConvertible.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
