@@ -150,6 +150,18 @@
     <ClCompile Include="类型的萃取13--isConvertible.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类型的萃取14--探测类型成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取15--探测任意类型成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取16--探测成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取17--IF-Then-Else.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
