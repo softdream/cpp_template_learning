@@ -162,6 +162,12 @@
     <ClCompile Include="类型的萃取17--IF-Then-Else.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类型的萃取18--类型的分类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类型的萃取19--萃取策略.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
