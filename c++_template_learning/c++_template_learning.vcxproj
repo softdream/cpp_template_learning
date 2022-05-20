@@ -171,7 +171,7 @@
     <ClCompile Include="18_移动语义2--万能引用.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="19_移动语言3--针对右值引用实施move_针对万能引用forward.cpp">
+    <ClCompile Include="19_移动语义3--针对右值引用实施move_针对万能引用forward.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1_函数模板.cpp">
@@ -204,6 +204,7 @@
     <ClCompile Include="13_成员函数模板特化.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="SFINAL机制1--void_t的使用.cpp" />
     <ClCompile Include="值传递与引用传递1--值传递.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -249,7 +250,6 @@
     <ClCompile Include="类型的萃取18--类型的分类.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="类型的萃取19--萃取策略.cpp" />
     <ClCompile Include="类型的萃取8_转换萃取.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

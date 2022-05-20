@@ -113,7 +113,7 @@ private:
 	int c;
 };
 
-// 为这个类型实现一个 之萃取：
+// 为这个类型实现一个 值萃取：
 template<>
 struct AccumulateTrait<MyType>
 {
